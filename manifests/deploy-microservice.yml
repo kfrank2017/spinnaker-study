@@ -5,7 +5,7 @@ metadata:
         app: mild-temper-microservice
         stack: frontend
         source: demo
-    name: famousrevolution-temper-microservice
+    name: famous-revolution-microservice
     namespace: microservices
 spec:
     replicas: 3
